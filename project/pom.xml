@@ -50,6 +50,12 @@
 </dependency>
 
 
+<!-- https://mvnrepository.com/artifact/org.opendaylight.netconf/netconf-api -->
+<dependency>
+    <groupId>org.opendaylight.netconf</groupId>
+    <artifactId>netconf-api</artifactId>
+    <version>7.0.7</version>
+</dependency>
 
 <!-- https://mvnrepository.com/artifact/org.opendaylight.netconf/netconf-client -->
 <dependency>
